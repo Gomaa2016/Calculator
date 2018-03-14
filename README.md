@@ -1,7 +1,7 @@
 # Calculator
 Calc has 26 different arithmetic operations and handling more than 10 expected errors.
 
-_ Cumulative operations
+_ Cumulative Calculator :
 - Basic operations ( +, - , * , / , % )
 - Single parameter operations ( sin , cos , tan , ...... , square root , power , log ..... )
 - Dealing with Integers & Floating point numbers
